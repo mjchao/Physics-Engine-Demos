@@ -1,7 +1,7 @@
 # Physics-Engine-Demos
 Demonstrations using the physics engine library
 
-This program uses my physics engine library found at https://github.com/mjchao/Physics-Engine-Library .
+This program uses my physics engine library found at https://github.com/mjchao/Physics-Engine-Library . It was created towards the end of July 2013 as the end of my timebox for developing the physics engine approached. The graphics are rendered using an old version of Java 3D. Java 3D has now been integrated into Java 8.
 
 It features
 
