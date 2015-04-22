@@ -13,7 +13,7 @@ It features
 
 In Kinematics, we have a ball moving with some initial velocity that the user may set. It is pulled back down to the ground by gravity.
 
-In Circular Motion, we have a small mass orbiting an immobile larger mass. You can speed up the larger mass by pressing 1 and slow it down by pressing 2.
+In Circular Motion, we have a small mass orbiting an immobile larger mass. You can speed up the smaller mass by pressing 1 and slow it down by pressing 2.
 
 In Angular Momentum, we have a box falling onto a sphere. The box and sphere then bounce around forever as there is no friction. You may apply additional forces with the keyboard if desired. Use "control" to toggle between the ball and the sphere. Use "shift" to toggle applying a positive or negative force. Use "1", "2", "3" to apply a force in the x, y, z directions and use "4", "5", "6" to apply a torque about the x, y, and z axes.
 
