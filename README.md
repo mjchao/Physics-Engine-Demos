@@ -2,7 +2,7 @@
 Demonstrations using the physics engine library
 
 ##Running the Program
-Java3D may not work on OSX. Try running this on a windows machine, preferably. To run the demos, simply run Demo.jar. 
+Java3D may not work on OSX and you may need additional files to run this program on Linux. Try running this on a windows machine, preferably. To run the demos, simply run Demo.jar. You will need j3dcore-ogl.dll in the same directory as Demo.jar, though. If you're using a different operating system, you may need a different j3dcore-ogl file.
 
 ##Details
 This program uses my physics engine library found at https://github.com/mjchao/Physics-Engine-Library . It was created towards the end of July 2013 as the end of my timebox for developing the physics engine approached. The graphics are rendered using an old version of Java 3D. Java 3D has been replaced by Java FX in Java 8.
